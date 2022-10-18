@@ -7,5 +7,6 @@ Hi! I'm Erin Smith! I'm a self taught software engineer and former STEM teacher(
 🔭 I’m currently working on freelance projects, helping friends with there websites/Pro Bono, helping students learn
 how to Code.🌱 I’m currently learning Python and I’m looking to collaborate on interesting, creative, and unique projects.
 
+<i class="fa-brands fa-html5"></i>
 
 
