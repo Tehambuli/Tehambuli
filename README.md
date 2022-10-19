@@ -12,7 +12,7 @@ projects.
 
 
 
-                                             🧰 Langauges and Tools
+                                     🧰 Langauges and Tools
 
 
 
