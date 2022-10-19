@@ -11,7 +11,6 @@ projects.
 
 
 
-
                                 ✨Langauges and Tools✨
 
 
@@ -27,8 +26,8 @@ projects.
 <br />
 
 
- 
- ✨Projects✨
+--- 
+                                    ✨Projects✨
 
 
 
