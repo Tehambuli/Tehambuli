@@ -27,7 +27,8 @@ projects.
 <br />
 
 
-✨Projects✨
+ 
+ ✨Projects✨
 
 
 
