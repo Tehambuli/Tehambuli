@@ -1,4 +1,4 @@
-✨ Software Engineer|UX/UI|Former STEM Teacher|Overall Awesome Person! ✨
+      ✨ Software Engineer|UX/UI|Former STEM Teacher|Overall Awesome Person! ✨
 
 
 
@@ -11,7 +11,8 @@ projects.
 
 
 
-                                    ✨Langauges and Tools✨
+
+                                ✨Langauges and Tools✨
 
 
 
