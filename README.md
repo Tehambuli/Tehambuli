@@ -1,31 +1,38 @@
-Software Engineer|UX/UI|Former STEM Teacher|Overall Awesome Person!
+                  ✨ Software Engineer|UX/UI|Former STEM Teacher|Overall Awesome Person! ✨
 
-
-**Tehambuli/Tehambuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi! I'm Erin Smith! I'm a self taught software engineer and former STEM teacher(Math, Biology, and Computer Science).
+
 🔭 I’m currently working on freelance projects, helping friends with there websites/Pro Bono, helping students learn
-how to Code.🌱 I’m currently learning Python and I’m looking to collaborate on interesting, creative, and unique projects.
+
+how to Code.🌱 I’m currently learning Python and I’m looking to collaborate on interesting, creative, and unique 
+
+projects.
 
 
 
-   <!--projects-->
-        <div class="projects">
-            <p>Here's a list of my projects below! It show's off my talents and skills!</p>
 
-            <div class="grid-container">
+                                             🧰 Langauges and Tools
 
-                <div class="grid-item">
-                    <h5>Houston Sun and Ski</h5>
-                    <a href="https://www.sunandski.com/arg"><img src="img/Houston Sun and Ski.png" alt="houston sun and ski" width="300px"></a>
 
-                </div>
 
-         <!--Rouge-->
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-                <div class="grid-item">
-                    <h5>Rogue Pickings</h5>
-                    <a href="#"><img src="img/rouge.jpg" alt="Rouge" width="300px"></a>
-                </li>
 
-            </div>
+
+
+
+
+                                                 
+
+
+
+
