@@ -8,7 +8,7 @@ Hi! I'm Erin Smith! I'm a self taught software engineer and former STEM teacher(
 how to Code.🌱 I’m currently learning Python and I’m looking to collaborate on interesting, creative, and unique 
 projects.
 
-
+---
 
 
                                 ✨Langauges and Tools✨
@@ -23,11 +23,19 @@ projects.
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<br
 
 
 --- 
-                                    ✨Projects✨
+
+✨Projects✨
+
+---
+                                   
+    
+ 
+       
+       
 
 
 
