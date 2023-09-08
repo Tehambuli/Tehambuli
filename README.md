@@ -3,11 +3,10 @@
 
 
 
-Hello! I'm Erin Smith! I'm a self taught software engineer and former STEM teacher(Math, Biology, and Computer Science).
-🔭 I’m currently working on freelance projects, helping friends with there websites/Pro Bono, helping students learn
-how to Code.🌱 I’m currently learning Python, API's and I’m looking to collaborate on interesting, creative, and unique 
+Hello! I'm Erin Smith! I'm a self-taught software engineer and former STEM teacher(Math, Biology, and Computer Science).
+🔭 I'm currently working on freelance projects, helping friends with their websites/Pro Bono, helping students learn
+how to Code.🌱 I'm currently learning Python, Java, and Flutter, API's, and I'm looking to collaborate on interesting, creative, and unique 
 projects.  Checkout my portfoilo: 
-
 
 
 
